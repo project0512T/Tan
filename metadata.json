@@ -1,0 +1,6 @@
+{
+  "name": "Quản lý Kho & Container",
+  "description": "Hệ thống quản lý xuất nhập tồn kho bulông đai ốc, tính toán quy cách và quản lý đóng cont hàng",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
